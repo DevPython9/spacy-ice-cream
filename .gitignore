@@ -1,0 +1,3 @@
+# on ignore tous les fichiers comprilés pyc
+*.pyc
+venv/
